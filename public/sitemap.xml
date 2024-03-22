@@ -194,8 +194,6 @@
   </url><url>
     <loc>http://localhost:1313/95/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
     <loc>http://localhost:1313/adelaidecountergambit_subpage/</loc>
   </url><url>
     <loc>http://localhost:1313/albincounter-gambit_subpage/</loc>
@@ -385,6 +383,8 @@
     <loc>http://localhost:1313/waywardqueenattack_subpage/</loc>
   </url><url>
     <loc>http://localhost:1313/winggambit_subpage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

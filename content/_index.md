@@ -1,4 +1,8 @@
-
+---
+title: "The MOST AMAZING CHESS OPENINGS EVER"
+cascade:
+    featured_image: '/images/chess-chess-men-game-chess-pieces.jpg'
+---
 ### Adelaide Counter Gambit
 ![Chess Opening Image](https://www.thechesswebsite.com/wp-content/uploads/2019/09/adelaide-counter-gambit.png)
 
