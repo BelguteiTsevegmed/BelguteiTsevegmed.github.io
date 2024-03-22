@@ -1,4 +1,4 @@
 baseURL = 'https://belguteitsevegmed.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Chess Openings'
 theme = 'ananke'
