@@ -2,7 +2,7 @@
 ### Adelaide Counter Gambit
 ![Chess Opening Image](https://www.thechesswebsite.com/wp-content/uploads/2019/09/adelaide-counter-gambit.png)
 
-[kaczkowe wyniki](https://belguteitsevegmed.github.io/AdelaideCounterGambit_subpage)
+[kaczkowe wyniki](AdelaideCounterGambit_subpage)
 
 
 ### Albin Counter-Gambit
