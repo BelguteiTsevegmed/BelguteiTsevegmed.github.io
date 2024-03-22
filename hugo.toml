@@ -1,4 +1,4 @@
-baseURL = 'https://belguteitsevegmed.github.io'
+baseURL = "https://belguteitsevegmed.github.io"
 languageCode = 'en-us'
-title = 'Chess Openings'
+title = "Chess Openings"
 theme = 'ananke'
